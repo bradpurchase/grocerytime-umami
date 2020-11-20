@@ -1,3 +1,7 @@
+This is GroceryTime's fork of umami to track some basic analytics for the [website](https://groceryti.me). Read more below:
+
+----
+
 # umami
 
 Umami is a simple, fast, website analytics alternative to Google Analytics.
